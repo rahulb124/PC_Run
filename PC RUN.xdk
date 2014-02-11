@@ -1,0 +1,31 @@
+{
+  "project": {
+    "projectSettingsVersion": "1.0",
+    "creationData": {
+      "type": "Import",
+      "src": "C:\\Users\\Rahul\\Desktop\\Autorunner",
+      "projectGuid": "1d9e487a-63c3-4b95-9fa5-dd90e19b6753",
+      "lastModifiedDate": 1391065108604,
+      "creationDate": 1391065108444
+    },
+    "projectFiles": {},
+    "projectDirectories": {},
+    "libraries": [
+      {
+        "name": "Cordova",
+        "version": "2.9.0",
+        "data": {
+          "default": true
+        }
+      },
+      {
+        "name": "intelXDK",
+        "version": "4.0.0",
+        "data": {
+          "default": true
+        }
+      }
+    ],
+    "services": []
+  }
+}
